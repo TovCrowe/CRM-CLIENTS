@@ -1,0 +1,50 @@
+{
+  "clients": [
+    {
+      "company": "Empresa ABC",
+      "email": "ana@company1.com",
+      "phone": "102013313",
+      "notes": "Cliente destacado",
+      "id": 1,
+      "name": "Ana Smith"
+    },
+    {
+      "company": "Compañía XYZ",
+      "email": "luis@company2.com",
+      "phone": "138198313",
+      "notes": "Cliente leal",
+      "id": 2,
+      "name": "Luis Pérez"
+    },
+    {
+      "company": "Empresa 123",
+      "email": "juan@company3.com",
+      "phone": "5555555",
+      "notes": "Cliente nuevo",
+      "id": 3,
+      "name": "Juan Rodríguez"
+    },
+    {
+      "id": 4,
+      "name": "Roberto González",
+      "phone": 319381983,
+      "email": "roberto@company4.com",
+      "company": "Empresa Delta"
+    },
+    {
+      "id": 5,
+      "name": "Sofía García",
+      "phone": 1398198938,
+      "email": "sofia@company5.com",
+      "company": "Empresa Epsilon"
+    },
+    {
+      "company": "Empresa Zeta",
+      "email": "carla@company6.com",
+      "phone": "5151515",
+      "notes": "Cliente regular",
+      "id": 6,
+      "name": "Carla López"
+    }
+  ]
+}
